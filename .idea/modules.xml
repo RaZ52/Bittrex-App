@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/RALVINN-3/.idea/RALVINN-3.iml" filepath="C:/RALVINN-3/.idea/RALVINN-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-bittrex-master.iml" filepath="$PROJECT_DIR$/.idea/python-bittrex-master.iml" />
+    </modules>
+  </component>
+</project>
